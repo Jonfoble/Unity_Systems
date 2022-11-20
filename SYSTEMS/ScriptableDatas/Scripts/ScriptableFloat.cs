@@ -2,9 +2,9 @@ using System;
 using UnityEngine;
 
 
-namespace SKUtils.ScriptableSystem
+namespace Jonfoble.ScriptableSystem
 {
-    [CreateAssetMenu(menuName = "SkUtils/ScriptableData/ScriptableFloat")]
+    [CreateAssetMenu(menuName = "Jonfoble/ScriptableData/ScriptableFloat")]
     public class ScriptableFloat : ScriptableData
     {
         public Action<float> OnValueIncreased;

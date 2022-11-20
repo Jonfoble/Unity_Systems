@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
 
-namespace SKUtils.Feedbacks
+namespace Jonfoble.Feedbacks
 {
     // Need DoTween asset
     public class PunchScaleFeedBack : MonoBehaviour

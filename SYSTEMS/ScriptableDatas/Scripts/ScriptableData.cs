@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace SKUtils.ScriptableSystem
+namespace Jonfoble.ScriptableSystem
 {
     public abstract class ScriptableData : ScriptableObject
     {

@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Ivory.ScriptableSystem
+namespace Jonfoble.ScriptableSystem
 {
 #if UNITY_EDITOR
     [CustomEditor(typeof(ScriptableAction))]

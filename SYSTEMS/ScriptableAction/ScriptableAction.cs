@@ -2,9 +2,9 @@ using UnityEngine;
 using Unity.Collections;
 using UnityEngine.Events;
 
-namespace Ivory.ScriptableSystem
+namespace Jonfoble.ScriptableSystem
 {
-    [CreateAssetMenu(menuName = "SkUtils/ScriptableSystem/ScriptableAction")]
+    [CreateAssetMenu(menuName = "Jonfoble/ScriptableSystem/ScriptableAction")]
     public class ScriptableAction : ScriptableObject
     {
         [ReadOnly] public UnityEvent ActionEvent;

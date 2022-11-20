@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace SKUtils.Interaction
+namespace Jonfoble.Interaction
 {
     public class InteractionController : MonoBehaviour
     {

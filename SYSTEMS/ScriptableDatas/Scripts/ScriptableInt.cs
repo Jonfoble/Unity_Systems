@@ -2,9 +2,9 @@ using System;
 using UnityEngine;
 
 
-namespace SKUtils.ScriptableSystem
+namespace Jonfoble.ScriptableSystem
 {
-    [CreateAssetMenu(menuName = "SkUtils/ScriptableData/ScriptableInt")]
+    [CreateAssetMenu(menuName = "Jonfoble/ScriptableData/ScriptableInt")]
     public class ScriptableInt : ScriptableData
     {
         public Action<int> OnValueIncreased;

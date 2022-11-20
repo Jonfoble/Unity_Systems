@@ -1,4 +1,4 @@
-namespace SKUtils.Damageable
+namespace Jonfoble.Damageable
 {
 	public interface IDamageable
 	{

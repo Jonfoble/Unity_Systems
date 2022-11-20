@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SKUtils.ObjectPool
+namespace Jonfoble.ObjectPool
 {
     public class ObjectPoolManager : MonoSingleton<ObjectPoolManager>
     {

@@ -2,9 +2,9 @@ using System;
 using UnityEngine;
 
 
-namespace SKUtils.ScriptableSystem
+namespace Jonfoble.ScriptableSystem
 {
-    [CreateAssetMenu(menuName = "SkUtils/ScriptableData/ScriptableBool")]
+    [CreateAssetMenu(menuName = "Jonfoble/ScriptableData/ScriptableBool")]
     public class ScriptableBool : ScriptableData
     {
         [SerializeField] bool value;

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace SKUttils
+namespace Jonfoble
 {
     public class OnTriggerEvent : MonoBehaviour
     {

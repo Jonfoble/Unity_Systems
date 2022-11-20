@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace SKUtils.ScriptableSystem
+namespace Jonfoble.ScriptableSystem
 {
     public class ScriptableInitializer : MonoBehaviour
     {

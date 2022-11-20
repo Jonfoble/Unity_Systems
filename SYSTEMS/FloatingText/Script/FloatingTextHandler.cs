@@ -1,9 +1,9 @@
-using SKUtils.ObjectPool;
+using Jonfoble.ObjectPool;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SKUtils.FloatingText
+namespace Jonfoble.FloatingText
 {
     public class FloatingTextHandler : MonoBehaviour
     {

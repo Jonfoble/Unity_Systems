@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace SKUtils.ObjectPool
+namespace Jonfoble.ObjectPool
 {
     public class ObjectPooler
     {

@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Events;
 
 
-namespace SKUtils.Damageable
+namespace Jonfoble.Damageable
 {
     public abstract class PlayerBase : MonoBehaviour, IDamageable
     {

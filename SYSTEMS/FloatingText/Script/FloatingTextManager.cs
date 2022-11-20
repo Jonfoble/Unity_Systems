@@ -2,11 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using SKUtils.ObjectPool;
+using Jonfoble.ObjectPool;
 
-namespace SKUtils.FloatingText
+namespace Jonfoble.FloatingText
 {
-    public class FloatingTextManager : MonoSingleton<FloatingTextManager>
+    public class FloatingTextManager : Singleton<FloatingTextManager>
     {
         [SerializeField] GameObject floatingTextPrefab;
 

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Ivory.ScriptableSystem
+namespace Jonfoble.ScriptableSystem
 {
     public class ScriptableActionSetter : MonoBehaviour
     {

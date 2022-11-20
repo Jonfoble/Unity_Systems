@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Ivory.Interaction
+namespace Jonfoble.Interaction
 {
     public interface IInteractable
     {

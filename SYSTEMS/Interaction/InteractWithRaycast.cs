@@ -1,4 +1,4 @@
-using Ivory.Interaction;
+using Jonfoble.Interaction;
 using UnityEngine;
 
 public class InteractWithRaycast : MonoBehaviour

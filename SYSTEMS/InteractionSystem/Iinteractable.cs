@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SKUtils.Interaction
+namespace Jonfoble.Interaction
 {
 	public interface Iinteractable
 	{
