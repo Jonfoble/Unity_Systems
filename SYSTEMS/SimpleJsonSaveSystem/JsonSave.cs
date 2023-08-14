@@ -10,7 +10,7 @@ public class JsonSave<T>
         var json = JsonConvert.SerializeObject(obj);
         PlayerPrefs.SetString(key, json);
         Debug.Log("Saved : " + json);
-    }
+    } 
 
     public static T LoadData(string key)
     {
